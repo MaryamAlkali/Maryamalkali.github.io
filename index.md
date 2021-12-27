@@ -3,10 +3,11 @@ layout: default
 
 ---
 
+![alt](assets/images/frontimage.jpg)
 
 [About Me](./another-page.html)
 
-![alt](assets/images/frontimage.jpg)
+
 
 
 
